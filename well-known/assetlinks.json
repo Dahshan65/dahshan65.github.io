@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.dahshan.health",
+        "sha256_cert_fingerprints": ["92:08:63:DA:B0:90:66:83:97:A0:8D:6D:07:87:73:36:BA:0E:B8:B9:DD:58:21:6F:64:DE:1C:F3:25:D1:9B:D6"]
+      }
+    }]
